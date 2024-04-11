@@ -25,7 +25,7 @@ author:
   name             : "Dan Haramati"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Student - Reinforcement Learning"
-  location         : ""
+  location         : 
   employer         : "Technion - Israel Institute of Technology"
   uri              : # URL
   email            : "haramati (at) campus (dot) technion (dot) ac (dot) il" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : dan-haramati
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
