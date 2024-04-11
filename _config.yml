@@ -21,7 +21,7 @@ repository               : "academicpages/danhrmti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Dan_Headshot.jpg"
   name             : "Dan Haramati"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Student - Reinforcement Learning"
