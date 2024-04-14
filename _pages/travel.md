@@ -29,55 +29,59 @@ Since then, I have made an effort to interleave traveling with my studies and ho
 <h3> Mongolia </h3>
 
 <p align="center">
-  <img src="images/travel/Mongolia/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Mongolia/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Mongolia/" height="140">
+  <img src="images/travel/Mongolia/Mongolia1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Mongolia/Mongolia2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Mongolia/Mongolia3.JPG" height="140">
 </p>
 
 <h3> China </h3>
 
 <p align="center">
-  <img src="images/travel/China/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/China/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/China/" height="140">
+  <img src="images/travel/China/China1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/China/China2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/China/China3.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/China/China4.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/China/China5.JPG" height="140">
 </p>
 
 <h3> The Philippines </h3>
 
 <p align="center">
-  <img src="images/travel/The_Philippines/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/The_Philippines/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/The_Philippines/" height="140">
+  <img src="images/travel/The_Philippines/ThePhilippines1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/The_Philippines/ThePhilippines2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/The_Philippines/ThePhilippines3.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/The_Philippines/ThePhilippines4.JPG" height="140">
 </p>
 
 <h3> Nepal </h3>
 
 <p align="center">
-  <img src="images/travel/Nepal/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Nepal/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Nepal/" height="140">
+  <img src="images/travel/Nepal/Nepal1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Nepal/Nepal2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Nepal/Nepal3.JPG" height="140">
 </p>
 
 <h3> Kyrgyzstan </h3>
 
 <p align="center">
-  <img src="images/travel/Kyrgyzstan/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Kyrgyzstan/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Kyrgyzstan/" height="140">
+  <img src="images/travel/Kyrgyzstan/Kyrgyzstan1.jpg" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Kyrgyzstan/Kyrgyzstan2.jpg" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Kyrgyzstan/Kyrgyzstan3.jpg" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Kyrgyzstan/Kyrgyzstan4.JPG" height="140">
 </p>
 
 <h3> Peru </h3>
 
 <p align="center">
-  <img src="images/travel/Peru/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Peru/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Peru/" height="140">
+  <img src="images/travel/Peru/Peru1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Peru/Peru2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Peru/Peru3.JPG" height="140">
 </p>
 
 <h3> Bolivia </h3>
 
 <p align="center">
-  <img src="images/travel/Bolivia/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Bolivia/" height="140"> &nbsp; &nbsp;
-  <img src="images/travel/Bolivia/" height="140">
+  <img src="images/travel/Bolivia/Bolivia1.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Bolivia/Bolivia2.JPG" height="140"> &nbsp; &nbsp;
+  <img src="images/travel/Bolivia/Bolivia3.JPG" height="140">
 </p>

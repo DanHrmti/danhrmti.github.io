@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Dan Haramati"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About
-======
 I am an M.Sc. student at the Technion - Israel Institute of Technology advised by Prof. [Aviv Tamar](https://avivt.github.io/avivt/).
 I am interested in Reinforcement Learning (RL) and related representation learning research towards building general and adaptive decision-making agents.
 

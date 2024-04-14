@@ -11,17 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h3> Entity-Centric Reinforcement Learning for Object Manipulation from Pixels </h3>
+<h2> Entity-Centric Reinforcement Learning for Object Manipulation from Pixels </h2>
 **Dan Haramati**, Tal Daniel, Aviv Tamar \
-ICLR 2024 <span style="color:firebrick"> Spotlight (top 5%) </span> \
-Goal-Conditioned Reinforcement Learning Workshop, NeurIPS 2023 <span style="color:firebrick"> Spotlight Talk </span> \
-[Paper](https://arxiv.org/abs/2404.01220), [Code](https://github.com/DanHrmti/ECRL), [Website](https://sites.google.com/view/entity-centric-rl/), [Talk](https://youtu.be/1YJCWyLcGHk?t=1)
+_International Conference on Learning Representations (ICLR) 2024_ <span style="color:firebrick"> _Spotlight (top 5%)_ </span> \
+_Goal-Conditioned Reinforcement Learning Workshop, NeurIPS 2023_ <span style="color:firebrick"> _Spotlight Talk_ </span> \
+[[Paper](https://arxiv.org/abs/2404.01220)]  [[Code](https://github.com/DanHrmti/ECRL)]  [[Website](https://sites.google.com/view/entity-centric-rl/)]  [[Talk](https://youtu.be/1YJCWyLcGHk?t=1)]
 
 <h1> Workshop Papers </h1>
 
-<h3> Object-centric Generative Modeling for Decision Making with Deep Latent Particles </h3>
+<h2> Object-centric Generative Modeling for Decision Making with Deep Latent Particles </h2>
 Tal Daniel\*, **Dan Haramati**\*, Aviv Tamar \
-Generative Models for Decision Making Workshop, ICLR 2024 \
+Generative Models for Decision Making Workshop, ICLR 2024
 
-\* Equal Contribution
+\* Indicates equal contribution
 
