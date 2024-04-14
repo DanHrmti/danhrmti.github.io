@@ -37,19 +37,19 @@ Since then, I have made an effort to interleave traveling with my studies and ho
 <h2> China </h2>
 
 <p align="center">
-  <img src="../images/travel/China/China1.JPG" width="20.8%"> &nbsp; &nbsp;
-  <img src="../images/travel/China/China2.JPG" width="31%"> &nbsp; &nbsp;
-  <img src="../images/travel/China/China3.JPG" width="20.8%"> &nbsp; &nbsp;
-  <img src="../images/travel/China/China4.JPG" width="20.8%"> &nbsp; &nbsp;
+  <img src="../images/travel/China/China1.JPG" width="20.6%"> &nbsp; &nbsp;
+  <img src="../images/travel/China/China2.JPG" width="30.5%"> &nbsp; &nbsp;
+  <img src="../images/travel/China/China3.JPG" width="20.6%"> &nbsp; &nbsp;
+  <img src="../images/travel/China/China4.JPG" width="20.6%"> &nbsp; &nbsp;
 </p>
 
 <h2> The Philippines </h2>
 
 <p align="center">
-  <img src="../images/travel/The_Philippines/ThePhilippines1.JPG" width="26.2%"> &nbsp; &nbsp;
-  <img src="../images/travel/The_Philippines/ThePhilippines2.JPG" width="26.2%"> &nbsp; &nbsp;
-  <img src="../images/travel/The_Philippines/ThePhilippines3.JPG" width="26.2%"> &nbsp; &nbsp;
-  <img src="../images/travel/The_Philippines/ThePhilippines4.JPG" width="14.7%">
+  <img src="../images/travel/The_Philippines/ThePhilippines1.JPG" width="26%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines2.JPG" width="26%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines3.JPG" width="26%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines4.JPG" width="14.6%">
 </p>
 
 <h2> Nepal </h2>

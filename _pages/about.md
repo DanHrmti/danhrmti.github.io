@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.Sc. student at the Technion - Israel Institute of Technology advised by Prof. [Aviv Tamar](https://avivt.github.io/avivt/).
+I am an M.Sc. student at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/home-2/) advised by Prof. [Aviv Tamar](https://avivt.github.io/avivt/).
 I am interested in Reinforcement Learning (RL) and related representation learning research towards building general and adaptive decision-making agents.
 
 Research questions I am currently drawn to involve how to incorporate *structure* in learning algorithms that facilitates sample efficient learning and generalization.
