@@ -46,9 +46,9 @@ Since then, I have made an effort to interleave traveling with my studies and ho
 <h2> The Philippines </h2>
 
 <p align="center">
-  <img src="../images/travel/The_Philippines/ThePhilippines1.JPG" width="26%"> &nbsp; &nbsp;
-  <img src="../images/travel/The_Philippines/ThePhilippines2.JPG" width="26%"> &nbsp; &nbsp;
-  <img src="../images/travel/The_Philippines/ThePhilippines3.JPG" width="26%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines1.JPG" width="25.8%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines2.JPG" width="25.8%"> &nbsp; &nbsp;
+  <img src="../images/travel/The_Philippines/ThePhilippines3.JPG" width="25.8%"> &nbsp; &nbsp;
   <img src="../images/travel/The_Philippines/ThePhilippines4.JPG" width="14.6%">
 </p>
 
