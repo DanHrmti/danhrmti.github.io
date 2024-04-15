@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <h2> Entity-Centric Reinforcement Learning for Object Manipulation from Pixels </h2>
+<img align="right" src="../images/ecrl_clip.gif" width="25%">
 **Dan Haramati**, Tal Daniel, Aviv Tamar \
 _International Conference on Learning Representations (ICLR) 2024_ <span style="color:firebrick"> _Spotlight (top 5%)_ </span> \
 _Goal-Conditioned Reinforcement Learning Workshop, NeurIPS 2023_ <span style="color:firebrick"> _Spotlight Talk_ </span> \
