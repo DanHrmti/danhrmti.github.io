@@ -22,7 +22,7 @@ _Goal-Conditioned Reinforcement Learning Workshop, NeurIPS 2023_ <span style="co
 
 <h2> Object-centric Generative Modeling for Decision Making with Deep Latent Particles </h2>
 Tal Daniel\*, **Dan Haramati**\*, Aviv Tamar \
-Generative Models for Decision Making Workshop, ICLR 2024
+_Generative Models for Decision Making Workshop, ICLR 2024_
 
 \* Indicates equal contribution
 
