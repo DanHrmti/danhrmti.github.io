@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+<h2> EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation </h2>
+<img align="right" src="../images/ecdiffuser_clip.gif" width="25%">
+Carl Qi, **Dan Haramati**, Tal Daniel, Aviv Tamar, Amy Zhang \
+_International Conference on Learning Representations (ICLR) 2025_ \
+[[Paper](https://www.arxiv.org/abs/2412.18907)]  Code (Coming Soon)  [[Website](https://sites.google.com/view/ec-diffuser)]
+
 <h2> Entity-Centric Reinforcement Learning for Object Manipulation from Pixels </h2>
 <img align="right" src="../images/ecrl_clip.gif" width="25%">
 **Dan Haramati**, Tal Daniel, Aviv Tamar \

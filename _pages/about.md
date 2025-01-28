@@ -20,7 +20,8 @@ Before beginning my academic journey, I spent two defining years traveling in Ea
 
 News
 ======
+**[Jan 2025]** Our paper on Entity-Centric Diffusion-based Behavioral Cloning (EC-Diffuser) has been accepted to ICLR 2025.\
 **[Sep 2024]** I have officially started my PhD at Brown University!\
 **[Mar 2024]** Our workshop paper on decision-making with Deep Latent Particles has been accepted to the GenAI4DM Workshop at ICLR 2024.\
-**[Jan 2024]** ECRL has been accepted to ICLR 2024 as a **Spotlight (top 5%)**\
+**[Jan 2024]** ECRL has been accepted to ICLR 2024 as a **Spotlight (top 5%)**.\
 **[Oct 2023]** Our paper on Entity-Centric Reinforcement Learning (ECRL) has been accepted to the GCRL Workshop at NeurIPS 2023 as a **Spotlight Talk**.
