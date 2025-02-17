@@ -15,7 +15,7 @@ author_profile: true
 <img align="right" src="../images/ecdiffuser_clip.gif" width="25%">
 Carl Qi, **Dan Haramati**, Tal Daniel, Aviv Tamar, Amy Zhang \
 _International Conference on Learning Representations (ICLR) 2025_ \
-[[Paper](https://www.arxiv.org/abs/2412.18907)]  Code (Coming Soon)  [[Website](https://sites.google.com/view/ec-diffuser)]
+[[Paper](https://www.arxiv.org/abs/2412.18907)]  [[Code](https://github.com/carl-qi/EC-Diffuser)]  [[Website](https://sites.google.com/view/ec-diffuser)]
 
 <h2> Entity-Centric Reinforcement Learning for Object Manipulation from Pixels </h2>
 <img align="right" src="../images/ecrl_clip.gif" width="25%">
