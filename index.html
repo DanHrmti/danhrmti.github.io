@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Dan Haramati</title>
+  
+  <meta name="author" content="Dan Haramati">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/seal_icon.png">
+  <style>
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.8);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+    
+    .modal.show {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-content {
+      max-width: 90%;
+      max-height: 90vh;
+      cursor: pointer;
+    }
+
+    .publication-image {
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .publication-image:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VTPH7LJFT8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VTPH7LJFT8');
+</script>
+
+<script type="text/javascript">
+function toggle_vis(id) {
+    var e = document.getElementById(id);
+    if (e.style.display == 'none')
+    e.style.display = 'inline';
+    else
+    e.style.display = 'none';
+}
+
+function openModal(imgSrc) {
+    const modal = document.getElementById('imageModal');
+    const modalImg = document.getElementById('modalImage');
+    modalImg.src = imgSrc;
+    modal.classList.add('show');
+    document.body.style.overflow = 'hidden'; // Prevent scrolling when modal is open
+}
+
+function closeModal() {
+    const modal = document.getElementById('imageModal');
+    modal.classList.remove('show');
+    document.body.style.overflow = ''; // Restore scrolling
+}
+
+// Close modal when pressing escape key
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        closeModal();
+    }
+});
+</script>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <!-- Modal for enlarged images -->
+    <div id="imageModal" class="modal" onclick="closeModal()">
+      <img id="modalImage" class="modal-content">
+    </div>
+
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:40%;max-width:40%">
+                <a href="files/headshot.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="files/headshot.jpg" class="hoverZoomLink"></a>
+            </td>
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Dan Haramati</name>
+              </p>
+              <p> 
+                I am a PhD candidate in the Computer Science department at <a href="https://cs.brown.edu/">Brown University</a> advised by Prof. <a href="https://cs.brown.edu/people/gdk/">George Konidaris</a>.
+                My research centers on <strong><em>generalization and transfer in Reinforcement Learning</em></strong> (RL), with the goal of building general and adaptive sequential decision-making agents.
+              </p>
+              <p>
+                I am particularly interested in <strong><em>compositional generalization</em></strong>&mdash;the ability to understand and produce novel combinations of known components or concepts&mdash;for its tractability and utility in solving increasingly complex tasks.
+                My recent work studies how factored structure can facilitate this type of generalization.
+              </p>
+              <p>
+                I am currently exploring <strong><em>world modeling and model-based RL</em></strong>, specifically addressing questions such as:
+                <em>How can one learn transferable world models? 
+                  What level of abstraction is suitable for world modeling? 
+                  When is learning a world model fundamentally preferable to model-free approaches?</em>
+              </p>
+              <p>
+                Prior to pursuing my PhD I completed a M.Sc. in Electrical and Computer Engineering advised by Prof. <a href="https://avivt.github.io/avivt/">Aviv Tamar</a>
+                and a B.Sc. in Electrical Engineering and Physics at the at the <a href="https://ece.technion.ac.il/">Technion - Israel Institute of Technology</a>.
+              </p>
+              <p>
+                Outside of research, I enjoy hiking, snowboarding, basketball and traveling.
+                Before beginning my academic journey, I spent two defining years <a href="travel/">traveling</a> in East Asia, Europe and America.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:dan_haramati@brown.edu">Email</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=NrfsdRYAAAAJ">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://x.com/DanHrmti">Twitter</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/dan-haramati/">LinkedIn</a> &nbsp/&nbsp
+                <a href="https://github.com/DanHrmti">Github</a> &nbsp/&nbsp
+                <a href="files/CV.pdf">CV</a>
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr><td>
+              <heading>Selected Publications</heading>
+              <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+                <tr>
+                  <td style="padding:20px;width:25%;vertical-align:middle">
+                    <img src="files/publications/ecdiffuser_clip.gif" width="160" class="publication-image" onclick="openModal(this.src)">
+                  </td>
+                  <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://arxiv.org/abs/2412.18907">
+                      <papertitle>EC-Diffuser: Multi-object Manipulation via Entity-centric Behavior Generation</papertitle>
+                    </a>
+                    <br>
+                    Carl Qi,
+                    <strong>Dan Haramati</strong>,
+                    Tal Daniel,
+                    Aviv Tamar,
+                    Amy Zhang                    
+                    <br>
+                    <em>International Conference on Learning Representations (ICLR) 2025</em>
+                    <br>
+                    <a href="https://openreview.net/forum?id=o3pJU5QCtv">paper</a> /
+                    <a href="https://github.com/carl-qi/EC-Diffuser">code</a> /
+                    <a href="https://sites.google.com/view/ec-diffuser/">project page</a>
+                    <p></p>
+                    <p><span style="color:gray">TL;DR: We present a diffusion-based goal-conditioned behavioral cloning method that operates on object-centric representations, enabling zero-shot generalization to novel compositions of objects.</span></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:20px;width:25%;vertical-align:middle">
+                    <img src="files/publications/ecrl_clip.gif" width="160" class="publication-image" onclick="openModal(this.src)">
+                  </td>
+                  <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://arxiv.org/abs/2404.01220">
+                      <papertitle>Entity-centric Reinforcement Learning for Object Manipulation from Pixels</papertitle>
+                    </a>
+                    <br>
+                    <strong>Dan Haramati</strong>,
+                    Tal Daniel,
+                    Aviv Tamar
+                    <br>
+                    <em>International Conference on Learning Representations (ICLR) 2024 <span style="color:firebrick"> Spotlight (top 5%) </span></em>
+                    <br>
+                    <em>Goal-Conditioned Reinforcement Learning Workshop, NeurIPS 2023 <span style="color:firebrick"> Spotlight Talk </span></em>
+                    <br>
+                    <a href="https://openreview.net/forum?id=uDxeSZ1wdI">paper</a> /
+                    <a href="https://github.com/DanHrmti/ECRL">code</a> /
+                    <a href="https://sites.google.com/view/entity-centric-rl/">project page</a> /
+                    <a href="https://youtu.be/1YJCWyLcGHk?t=1">talk</a>
+                    <p></p>
+                    <p><span style="color:gray">TL;DR: We introduce a structured visual goal-conditioned RL framework for multi-object manipulation, demonstrating agents that generalize from 3 to over 10 objects.</span></p>
+                  </td>
+                </tr>
+              </table>
+            </td></tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tbody><tr><td>
+              <heading>News</heading>
+              <ul>
+                <li>Excited to present our entity-centric decision-making line of work at RLDM 2025.</li>
+                <li>Our paper on Entity-Centric Diffusion-based Behavioral Cloning (EC-Diffuser) has been accepted to ICLR 2025.</li>
+                <li>I have officially started my PhD at Brown University! (September 2024)</li>
+                <li>Our workshop paper on decision-making with Deep Latent Particles has been accepted to the GenAI4DM Workshop at ICLR 2024.</li>
+                <li>ECRL has been accepted to ICLR 2024 as a <strong>Spotlight (top 5%)</strong>.</li>
+                <li>Our paper on Entity-Centric Reinforcement Learning (ECRL) has been accepted to the GCRL Workshop at NeurIPS 2023 as a <strong>Spotlight Talk</strong>.</li>  
+                </div>
+              </ul>
+          </td></tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:right;font-size:small;">
+                Style based on Mirco Mutti's <a href="https://muttimirco.github.io/">site</a>.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
